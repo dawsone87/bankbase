@@ -13,7 +13,7 @@ public class TestBank {
   /** @param args from command line - unused */
   public static void main(String[] args) {
 
-    CheckingAccount mine = new CheckingAccount("David Green", 200000);
+    CheckingAccount mine = new CheckingAccount("Dawson Eichhorn", 200000);
     System.out.println("The account has " + mine.getBalance());
     System.out.println(mine);
 
